@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Saídas geradas pelo pipeline (dados e logs não vão para o repositório)
+data/*.db
+data/*.csv
+logs/*.log
+
+# Configurações de IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

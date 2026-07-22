@@ -1,0 +1,8 @@
+# Tema do dashboard Streamlit (mantém o app sempre claro e consistente
+# com a paleta usada nos gráficos).
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f5f6f8"
+font = "sans serif"
