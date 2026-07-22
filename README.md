@@ -192,6 +192,6 @@ ou direto no Python com `pandas.read_sql`.
 
 ---
 
-## 👤 Autor
+## 👤 Autoria
 
-Projeto desenvolvido como estudo do curso de **Análise e Desenvolvimento de Sistemas**.
+Projeto desenvolvido por Emanuel Alan Matos, como estudo do curso de **Análise e Desenvolvimento de Sistemas**.
